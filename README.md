@@ -12,7 +12,7 @@ Fonts I personally use for writing, and also web frontends
 - UD Digi Kyokasho NK-R - Used for Japanese, and also very cute interface. (only personal use though)
 - Open Sans / Fira Sans - Open Sans is really good for clear UI. Fira Sans for an also clear but more condensed look, which is great on vertical phone views.
 - Museo Sans - Museum display type font. Recommended by actual museum workers.
-- Source Sans Pro - used by the US government websites. 
+- Source Sans Pro - used by US government departments' websites. 
 - Metropolis - free Gotham alternative, really good for UI and album jackets
 - Trebuchet MS - Tried web font, universally available, best out of the set for me
 - Same with Verdana...
