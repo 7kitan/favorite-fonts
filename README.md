@@ -9,7 +9,7 @@ Fonts I personally use for writing, and also web frontends
 
 ## SANS SERIF
 - Atkinson Hyperlegible - High legibility, utility font
-- UD Digi # NK-R - Used for Japanese, and also very cute interface
+- UD Digi Kyokasho NK-R - Used for Japanese, and also very cute interface. (only personal use though)
 - Open Sans / Fira Sans - Open Sans is really good for clear UI. Fira Sans for an also clear but more condensed look, which is great on vertical phone views.
 - Museo Sans - Museum display type font. Recommended by actual museum workers.
 - Source Sans Pro - used by the US government websites. 
